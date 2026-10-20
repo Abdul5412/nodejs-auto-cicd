@@ -1,3 +1,4 @@
-const message = "Hello! Node.js Auto CI/CD Project";
+const message = "Hello! Jenkins Automatic CI/CD is working";
+
 
 console.log(message);
